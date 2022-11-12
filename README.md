@@ -2,7 +2,11 @@
 ![Server running](media/server.jpg)
 
 A simple gemini server implementation for the ESP8266.
+* [gemini://gemini.p1x.in:8266](gemini://gemini.p1x.in:8266)
 
+## Modified by Krzysztof Krystian Jankowski
+* [krzysztofjankowski.com](https://krzysztofjankowski.com)
+* [gemini://floppy.p1x.in](gemini://floppy.p1x.in)
 
 ## Requirements
 * Arduino IDE set up for your ESP8266 board.
@@ -15,7 +19,3 @@ A simple gemini server implementation for the ESP8266.
 4. Run ```Arduino IDE>Tools>ESP8266 LittleFS Data Upload``` to upload the contents of the data folder to the flash.
 5. Check if the board has connected to your wifi network and connect to it using your gemini browser of choice.
 
-
-## Modified by Krzysztof Krystian Jankowski
-* [krzysztofjankowski.com](https://krzysztofjankowski.com)
-* [gemini://gemini.p1x.in](gemini://gemini.p1x.in)
