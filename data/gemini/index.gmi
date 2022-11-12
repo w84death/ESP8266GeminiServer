@@ -1,2 +1,14 @@
-# ESP8266 Gemini Server
-If you're reading this, everything works! Now check the data/gemini folder to edit this file, or add something else!
+# ESP8266 Gemini Capsule
+
+* 80MHz CPU
+* 80KB RAM (for user)
+* 1MB FLASH
+
+Space available: 420KB
+=> 120kb.gmi
+=> 120kb-2.gmi
+=> 60kb.gmi
+=> 30kb.gmi
+=> 30kb-2.gmi
+=> 30kb-3.gmi
+=> 30kb-4.gmi
