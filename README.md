@@ -1,4 +1,6 @@
 # ESP8266 Gemini Server
+![Server running](media/server.jpg)
+![LED blinking](media/request-led.mp4)
 
 A simple gemini server implementation for the ESP8266.
 
